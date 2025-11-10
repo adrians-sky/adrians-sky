@@ -16,4 +16,4 @@ Part creative, part programmer, full goof.
 
 # Current Projects
 
-None right now. Primary focues on my schoolwork!
+None right now. Currently focusing on my schoolwork!
