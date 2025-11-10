@@ -16,7 +16,4 @@ Part creative, part programmer, full goof.
 
 # Current Projects
 
-<div align="center">
-  <a href="https://github.com/adrians-sky/warehouse-games-reference"><img src="https://github.com/adrians-sky/warehouse-games-reference/blob/main/images/banner.svg"/></a>
-  <p><br/>A dataset containing statistics from Jomboy Media's Warehouse Games.</p>
-</div>
+None right now. Primary focues on my schoolwork!
