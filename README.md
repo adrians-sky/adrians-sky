@@ -9,6 +9,17 @@ Part creative, part programmer, full goof.
 # Current Projects
 
 <div align="center">
+  <a href="https://github.com/adrians-sky/adrians-sky-terminal-portfolio"><img src="https://github.com/adrians-sky/adrians-sky-terminal-portfolio/blob/main/public/preview.png"/></a>
+  <p><br/>A terminal-styled portfolio website.</p>
+  <img src="https://img.shields.io/badge/Vue.js-OC08D.svg?&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E" />
+</div>
+
+# Projects on Hiatus
+
+<div align="center">
   <a href="https://github.com/adrians-sky/adrians-sky.github.io"><img src="https://github.com/adrians-sky/adrians-sky.github.io/blob/main/public/readme_preview.png"/></a>
   <p><br/>My personal, "not boring" portfolio and personal blog website.</p>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&logo=css3&logoColor=white" />
 </div>
